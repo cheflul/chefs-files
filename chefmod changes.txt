@@ -1,0 +1,9 @@
+added armours to levelled lists:
+	Heavy chitin
+	dreugh
+	chitin pioneer helm
+	dwemer scrap
+Added some Redoran watchmen armour to the smith in Molag-Mar
+Added some Redoran watchmen to Ald-Ruhn 
+Gave a Dren Plantation guard heavy chitin
+Gave a Dren Plantation guard chitin pioneer helm
