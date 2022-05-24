@@ -1,0 +1,24 @@
+-------------------------------------------- Exterior ----------------------------------------------
+
+-------------------------------------------- Interior ----------------------------------------------
+Odrosal, Dwemer Training Academy - Added: T_Dwe_Hammer_Repair_01
+Urshilaku, Juno Burial - Replace: repair_journeyman_01 with T_Dwe_Hammer_Repair_01
+---------------------------------------------- NPC -------------------------------------------------
+gladroon - Added: T_Dwe_Hammer_Repair_01
+hakar the candle - Added: T_Dwe_Hammer_Repair_01
+telvon llethan - Added: T_Dwe_Hammer_Repair_01
+manicky - Added: T_Dwe_Hammer_Repair_01
+Daron - Added: T_Dwe_Hammer_Repair_01
+----------------------------------------- Leveled Lists --------------------------------------------
+l_n_repair item - Added: T_Dwe_Hammer_Repair_01 (lvl 10)
+ex_grazelands_lev** - Added: T_Dae_Cre_Seduc_01 (lvl 15) + 
+							 T_Dae_Cre_SeducDark_01 (lvl 23)
+random_drinks_01 - Added: T_De_Drink_LiquorLlotham_01
+random_alchemy_diff - Added: T_Bre_Drink_WineWayrest_01 + 
+							 T_De_Drink_BourbonGoya_01 + 
+							 T_De_Drink_LiquorLlotham_01
+------------------------------------------ Containers ----------------------------------------------
+dwrv_chest10 + dwrv_chest_Bam - Replaced: repair_journeyman_01 with T_Dwe_Hammer_Repair_01
+dwrv_chest10_kjeld - Added: T_Dwe_Hammer_Repair_01
+com_cupboard_01_booze - Added: T_De_Drink_LiquorLlotham_01
+de_p_desk_nuncius - Added: T_De_Drink_LiquorLlotham_01
